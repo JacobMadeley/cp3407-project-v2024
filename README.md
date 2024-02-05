@@ -1,8 +1,3 @@
-
-How to edit this: 
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
-
 # cp3407 Assessment 1 Group:~~~~~~~~
 
 ## How to submit [You may delete this before submitting]
