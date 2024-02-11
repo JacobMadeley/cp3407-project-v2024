@@ -11,7 +11,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 1. Jacob Madeley
 2. Shang-Ze (Andy) Lin
 3. Callum
-4. Darcy
+4. Darcy Kemp
 
 
 # Assignment-1: project planning BEFORE iteration-1, (see chapters 1-3)
