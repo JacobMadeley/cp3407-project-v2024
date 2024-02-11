@@ -1,41 +1,52 @@
-# User story title: e.g. Show current deals
+# User story: User Roles
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+## Priority: ~
 
-## Priority: 10 (e.g. latest for iteration-1)
+Having User Roles should be defined and implemented early in iteration 1.
+As having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guests personal information/ user data as well as assigning the appropriate level of access.
 
-Any notes on priority go here.
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Estimation: ~
 
-## Estimation: e.g. 2 days
+Any notes on estimation go here
+* Andy:
+* Callum:
+* Jacob:
+* Darcy:
 
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Assumptions:
 
-## Assumptions (if any)':'
+* A modern database will be needed to manage User Roles and their appropriate levels of access.
+* Administration will have full access to managing new users and assigning them appropriate User Roles for Staff Users.
+* Guests will be 'logging in' possibly via a pre-made "My Hotel" assigned account or one made by via a 'sign-up/ create' account process.
+* 
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
+## Description:
+Define the User Roles for different users of "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
+Levels of access for these User Roles could include; Admin, Staff, Guest.<br><br>
+Having different levels of access associated with User Roles will allow for better managed accounts as well as distinguishing Hotel staff from their Guests.
+The use of a database for users will allow for managing their access to other aspects of the App/Website such as Inventory management restricted to Guests but accessible to Staff roles, while another section of 'My Hotel' like Room Status Updates is accessible to all User Roles.
 
-You need to keep all versions here so that your instructor/marker can see your changes easily.
-In a real project, your older versions could be viewed via commits.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+## Tasks:
 
-## Tasks: see chapter 4'.'
+1. Develop an appropriate Database for 'My Hotel' to manage User Roles and their levels of access.
+<br><br>
+2. Create an account systems to allow users to login.
+<br><br>
+3. Allow Administrator roles to create new Staff related roles.
+<br><br>
+4. Maybe allow for the use of pre-generated Guest accounts be used for users that don't want to set up an account but wants to use the services available to other guests.
+<br><br>
+5. Allow User Roles to access appropriate services on the 'My Hotel' App/Website.
 
-1. Task 1, Estimation XX days
-2. ...
-
-## UI Design':'
+## UI Design:
 
 * (New, not in the textbook)
 * Many user stories are connected to a User interface.
 * Insert a mock-up design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
-## Completed':'
+
+## Completed:
 
 * (New, not in the textbook)
 * Insert screenshots of completed iterations.
