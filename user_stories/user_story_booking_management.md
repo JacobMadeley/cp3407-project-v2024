@@ -1,6 +1,6 @@
 # User story title: Booking Management
 
-## Priority: 8
+## Priority: 2
 
 As the 'My Hotel' project is intended to be sold to as a service this is a high priority feature of the project and should be implemented in the first iteration. 
 
