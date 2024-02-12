@@ -1,11 +1,11 @@
 # User story: User Roles
 
-## Priority: ~
+## Priority: High/ 2
 
 Having User Roles should be defined and implemented early in iteration 1.
 As having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guests personal information/ user data as well as assigning the appropriate level of access.
 
-## Estimation: ~
+## Estimation: 8 days
 
 * Shang-Ze Lin (Andy Lin):
 * Callum:
