@@ -1,16 +1,16 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Dashboard and Reporting
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: Top priot / 1
 Any notes on priority go here. 
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
-## Estimation: e.g. 2 days
+## Estimation: 15 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Bob: 1 day (e.g. estimated before iteration-1)
 * Lisa: 2 days
