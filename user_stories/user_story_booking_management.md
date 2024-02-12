@@ -1,6 +1,6 @@
 # User story title: Booking Management
 
-## Priority: ~
+## Priority: 8
 
 As the 'My Hotel' project is intended to be sold to as a service this is a high priority feature of the project and should be implemented in the first iteration. 
 
@@ -8,7 +8,7 @@ As the 'My Hotel' project is intended to be sold to as a service this is a high 
 
 * Shang-Ze Lin (Andy Lin):
 * Callum:
-* Jacob Madeley:
+* Jacob Madeley: 10
 * Darcy Kemp:
 
 [//]: # (Any notes on estimation go here)
