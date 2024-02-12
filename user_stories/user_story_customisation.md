@@ -1,11 +1,11 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Customisation
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: L
 Any notes on priority go here. 
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
