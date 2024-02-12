@@ -7,24 +7,30 @@ As having appropriate levels of access to users is imperative to maintaining the
 
 ## Estimation: ~
 
-Any notes on estimation go here
-* Andy Lee:
+* Shang-Ze Lin (Andy Lin):
 * Callum:
-* Jacob:
-* Darcy:
+* Jacob Madeley:
+* Darcy Kemp:
+
+[//]: # (Any notes on estimation go here)
 
 ## Assumptions:
 
 * A modern database will be needed to manage User Roles and their appropriate levels of access.
 * Administration will have full access to managing new users and assigning them appropriate User Roles for Staff Users.
 * Guests will be 'logging in' possibly via a pre-made "My Hotel" assigned account or one made by via a 'sign-up/ create' account process.
+ 
 
 ## Description:
 
-Define the User Roles for different users of "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
+Description-v1: Define the User Roles for different users of "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
 Levels of access for these User Roles could include; Admin, Staff, Guest.<br><br>
 Having different levels of access associated with User Roles will allow for better managed accounts as well as distinguishing Hotel staff from their Guests.
 The use of a database for users will allow for managing their access to other aspects of the App/Website such as Inventory management restricted to Guests but accessible to Staff roles, while another section of 'My Hotel' like Room Status Updates is accessible to all User Roles.
+
+[//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
+
+[//]: # (In a real project, your older versions could be viewed via commits.)
 
 ## Tasks:
 
@@ -40,14 +46,16 @@ The use of a database for users will allow for managing their access to other as
 
 ## UI Design:
 
-![A flowchart to represent the potential layout/interactions of User Roles on the the database](user_roles_flowchart.png)
-* (New, not in the textbook)
-* Many user stories are connected to a User interface.
-* Insert a mock-up design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![A flowchart to represent the potential layout/interactions for the roles.](D:\UNI\CP3407_Advanced_Software_Engineering\assessments\cp3407-project-v2024\user-story_user_roles_flowchart.png)
+A flowchart to represent the potential layout/interactions for the User Roles.
 
 
 ## Completed:
 
-* (New, not in the textbook)
-* Insert screenshots of completed iterations.
-* If you have multiple versions (changes between iterations), show them all.
+*
+
+[//]: # (* &#40;New, not in the textbook&#41; )
+
+[//]: # (* Insert screenshots of completed. )
+
+[//]: # (* If you have multiple versions &#40;changes between iteractions&#41;, show them all.)
