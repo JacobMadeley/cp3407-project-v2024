@@ -17,6 +17,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Jack: 3 days
 
 ## Assumptions (if any):
+Relevant room status may mean different things based on who you are.
 
 ## Description: e.g. The web page will show relevant room status to users.
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
