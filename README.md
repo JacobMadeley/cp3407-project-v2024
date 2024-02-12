@@ -9,7 +9,7 @@
 
 It is recommended to complete this assignment in a group of 2-4 students.
 1. Jacob Madeley
-2. Shang-Ze (Andy) Lee
+2. Shang-Ze (Andy) Lin
 3. Callum
 4. Darcy Kemp
 
