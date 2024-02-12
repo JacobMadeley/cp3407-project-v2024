@@ -5,12 +5,12 @@ as this [user_stories folder](./)
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 
+## Priority: 5
 Any notes on priority go here. 
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
-## Estimation: 
+## Estimation: 15 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Bob: 1 day (e.g. estimated before iteration-1)
 * Lisa: 2 days
