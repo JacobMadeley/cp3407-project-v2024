@@ -17,6 +17,9 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Jack: 3 days
 
 ## Assumptions (if any):
+Rooms will count as the inventory
+Hotels will be able to manage and add their own rooms
+Hotels can set their room prices individually
 
 ## Description: e.g. The web page will allow the management and tracking of hotel rooms. 
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
