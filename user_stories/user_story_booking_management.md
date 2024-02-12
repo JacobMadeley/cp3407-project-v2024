@@ -29,7 +29,7 @@ As the 'My Hotel' project is intended to be sold to as a service this is a high 
 ## Description: 
 
 Description-v1: A Booking Management system for; room bookings, handling availability, check-ins, check-outs, reservations,and room assignments.
-Hotel's will be able to create listings for rooms and assign rooms to guests,  Hotels and guests will be able to see availabilities of rooms, assigned room. the check-in/check-out times and reservations.
+Hotel's will be able to create listings for rooms and assign rooms to guests,  Hotels and guests will be able to see availabilities of rooms, assigned room. the check-in/check-out times, reservations and payment options.
 
 [//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
 
