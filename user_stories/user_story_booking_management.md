@@ -1,15 +1,15 @@
 # User story title: Booking Management
 
-## Priority: 2
+## Priority: high / 2
 
-As the 'My Hotel' project is intended to be sold to as a service this is a high priority feature of the project and should be implemented in the first iteration. 
+As the 'My Hotel' project is intended to be sold as a service this is a high priority feature of the project and should be implemented in the first iteration. 
 
-## Estimation:
+## Estimation: 5
 
-* Shang-Ze Lin (Andy Lin):
-* Callum:
-* Jacob Madeley: 10
-* Darcy Kemp:
+* Shang-Ze Lin (Andy Lin): 6
+* Callum: 5
+* Jacob Madeley: 8
+* Darcy Kemp: 5
 
 [//]: # (Any notes on estimation go here)
 
@@ -17,19 +17,19 @@ As the 'My Hotel' project is intended to be sold to as a service this is a high 
 
 * Bookings can be made in the App/Website by users.
 * Lists of vacant rooms will be available to users.
-* A list of booking made by users are listed.
-* Bookings can be canceled by users.
+* A list of bookings made by users is listed.
+* Bookings can be cancelled by users.
 * Dates of when the is for will be displayed.
 * Reminders are an optional feature to implement.
-* Rooms are associated to one hotel.
+* Rooms are associated with one hotel.
 * Hotels that purchase 'My Hotel' will add room details for future guests.
 * A database to list rooms and their statuses; bookings, handling availability, check-ins, check-outs, reservations,and room assignments.
 * Some level of guest details to ID rooms to users.
 
 ## Description: 
 
-Description-v1: A Booking Management system for; room bookings, handling availability, check-ins, check-outs, reservations,and room assignments.
-Hotel's will be able to create listings for rooms and assign rooms to guests,  Hotels and guests will be able to see availabilities of rooms, assigned room. the check-in/check-out times, reservations and payment options.
+Description-v1: A Booking Management system for; room bookings, handling availability, check-ins, check-outs, reservations, and room assignments.
+Hotel will be able to create listings for rooms and assign rooms to guests,  Hotels and guests will be able to see availabilities of rooms, assigned room. the check-in/check-out times, reservations and payment options.
 
 [//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
 
