@@ -12,10 +12,10 @@ Again, keep all changes here for marking.
 
 ## Estimation: e.g. 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-- Shang-Ze Lin (Andy Lin):
-- Callum:
-- Jacob Madeley: 
-- Darcy Kemp:
+- Shang-Ze Lin (Andy Lin): 2
+- Callum: 2
+- Jacob Madeley: 2
+- Darcy Kemp: 2
 
 ## Assumptions:
 - Hotels will have varying layouts and operational preferences.
