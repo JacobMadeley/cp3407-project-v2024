@@ -16,13 +16,16 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Lisa: 2 days
 * Jack: 3 days
 
-## Assumptions (if any):
+## Assumptions:
+- Hotels will have varying layouts and operational preferences.
+- Customization options will include room categorization, pricing structures, and user interface themes.
+- The system will provide an intuitive interface for hotel administrators to configure settings.
+- Changes made to customization options will reflect immediately in the user interface.
+- Hotel administrators will require training or documentation to effectively utilize customization features.
+
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: Develop a comprehensive customization feature set that enables hotel administrators to tailor the MyHotel platform to their specific needs. This includes options to customize room types, pricing, and user interface elements. The goal is to empower hotels to create a unique and branded experience for their guests while streamlining their operational processes.
 
 ## Tasks, see chapter 4.
 
