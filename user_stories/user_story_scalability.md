@@ -1,34 +1,30 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: scalability
+# User story title:  
+Operational Scalability and UI Versatility for Diverse Hotel Management
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+## Priority: 10 (e.g. latest for iteration-1)
+Operational scalability and UI versatility are prioritized to ensure the booking management system can be easily adopted by a wide range of hotels, from small independents to large chains, by providing a highly adaptable and intuitive interface.
 
-## Priority: Low / 10
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
-
-## Estimation: N/A
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Shang-Ze Lin (Andy Lin):
-* Callum:
-* Jacob Madeley:
-* Darcy Kemp:
+## Estimation: 1 days
+The estimation accounts for the design and implementation of customizable features, UI elements, and testing with a focus on usability and adaptability across different hotel operational practices.
+Callum: 1 day
 
 ## Assumptions (if any):
+Hotels have diverse operational practices, room types, and guest engagement strategies that the software must accommodate.
+Customization and ease of use in the UI are key factors in the adoption of the software by hotels.
+The system should allow for easy configuration to match the specific workflows, terminologies, and services offered by individual hotels or chains.
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+## Description: 
+Develop the booking management system to offer operational scalability and a versatile, customizable UI, ensuring it can adapt to and seamlessly integrate with the varied operational needs and preferences of different hotels.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+Task 1: Conduct user research to identify common and unique operational needs across different types of hotels. Estimation: 2 days
+Task 2: Design a customizable UI framework that supports branding and operational workflow adjustments. Estimation: 3 days
+Task 3: Implement customizable features and settings for room types, services, pricing models, and communication templates. Estimation: 2 days
+Task 4: Develop and integrate the actions / UI
 
 
 # UI Design:
