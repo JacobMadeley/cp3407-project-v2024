@@ -7,23 +7,21 @@
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
 1. Jacob Madeley
 2. Shang-Ze (Andy) Lin
 3. Callum
 4. Darcy Kemp
 
 
-# Assignment-1: project planning BEFORE iteration-1, (see chapters 1-3)
+# Assignment-1: project planning BEFORE iteration-1;
 Checklist/TODOs: 
-* Update the following during each week prac session
-* GitHub entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
+- [] Update the following during each week prac session
+- [] GitHub entry timestamp is BEFORE the iteration-1
+- [] User stories are correct: see p39
+- [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
+- [] [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
 
-Total: YY days
+Total: ~16 days
 
 
 # Assignment-2: Iterations
