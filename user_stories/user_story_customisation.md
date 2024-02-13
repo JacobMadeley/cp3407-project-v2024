@@ -14,7 +14,7 @@ Again, keep all changes here for marking.
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 - Shang-Ze Lin (Andy Lin):
 - Callum:
-- Jacob Madeley: 10
+- Jacob Madeley: 
 - Darcy Kemp:
 
 ## Assumptions:
