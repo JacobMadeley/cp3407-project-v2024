@@ -3,7 +3,7 @@
 ## Priority: High/ 2
 
 Having User Roles should be defined and implemented early in iteration 1.
-As having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guests personal information/ user data as well as assigning the appropriate level of access.
+Having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guest's personal information/ user data as well as assigning the appropriate level of access.
 
 ## Estimation: 8 days
 
@@ -18,14 +18,14 @@ As having appropriate levels of access to users is imperative to maintaining the
 
 * A modern database will be needed to manage User Roles and their appropriate levels of access.
 * Administration will have full access to managing new users and assigning them appropriate User Roles for Staff Users.
-* Guests will be 'logging in' possibly via a pre-made "My Hotel" assigned account or one made by via a 'sign-up/ create' account process.
+* Guests will be 'logging in' possibly via a pre-made "My Hotel" assigned account or one made via a 'sign-up/ create' account process.
  
 
 ## Description:
 
-Description-v1: Define the User Roles for different users of "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
+Description-v1: Define the User Roles for different users of the "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
 Levels of access for these User Roles could include; Admin, Staff, Guest.<br><br>
-Having different levels of access associated with User Roles will allow for better managed accounts as well as distinguishing Hotel staff from their Guests.
+Having different levels of access associated with User Roles will allow for better-managed accounts as well as distinguishing Hotel staff from their Guests.
 The use of a database for users will allow for managing their access to other aspects of the App/Website such as Inventory management restricted to Guests but accessible to Staff roles, while another section of 'My Hotel' like Room Status Updates is accessible to all User Roles.
 
 [//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
@@ -36,17 +36,17 @@ The use of a database for users will allow for managing their access to other as
 
 1. Develop an appropriate Database for 'My Hotel' to manage User Roles and their levels of access.
 <br><br>
-2. Create an account systems to allow users to login.
+2. Create an account system to allow users to log in.
 <br><br>
-3. Allow Administrator roles to create new Staff related roles.
+3. Allow Administrator roles to create new Staff-related roles.
 <br><br>
-4. Maybe allow for the use of pre-generated Guest accounts be used for users that don't want to set up an account but wants to use the services available to other guests.
+4. Maybe allow for the use of pre-generated Guest accounts for users who don't want to set up an account but want to use the services available to other guests.
 <br><br>
 5. Allow User Roles to access appropriate services on the 'My Hotel' App/Website.
 
 ## UI Design:
 
-![A flowchart to represent the potential layout/interactions for the roles.](D:\UNI\CP3407_Advanced_Software_Engineering\assessments\cp3407-project-v2024\user-story_user_roles_flowchart.png)
+![A flowchart to represent the potential layout/interactions for the roles.](D:\UNI\CP3407_Advanced_Software_Engineering\assessments\cp3407-project-v2024\images\user-story_user_roles_flowchart.png)
 A flowchart to represent the potential layout/interactions for the User Roles.
 
 
