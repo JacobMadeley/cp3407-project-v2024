@@ -3,19 +3,19 @@ as this [user_stories folder](./)
 
 # User story title: Customer Communication
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+Keep any other version here as well, e.g. Display current deals, Let the user click on "show-current-deals".
 
-## Priority: 5
+## Priority: Low / 4
 Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
+Note you may have different priorities at different stages of your project.
 Again, keep all changes here for marking.
 
-## Estimation: 15 days
+## Estimation: 6 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-- Shang-Ze Lin (Andy Lin):
-- Callum:
-- Jacob Madeley: 
-- Darcy Kemp:
+- Shang-Ze Lin (Andy Lin): 6
+- Callum: 5
+- Jacob Madeley: 6
+- Darcy Kemp: 6
 
 
 ## Assumptions (if any):
