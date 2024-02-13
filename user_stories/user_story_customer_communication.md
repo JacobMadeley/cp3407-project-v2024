@@ -12,10 +12,10 @@ Again, keep all changes here for marking.
 
 ## Estimation: 15 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-Shang-Ze Lin (Andy Lin):
-Callum:
-Jacob Madeley: 
-Darcy Kemp:
+- Shang-Ze Lin (Andy Lin):
+- Callum:
+- Jacob Madeley: 
+- Darcy Kemp:
 
 
 ## Assumptions (if any):
