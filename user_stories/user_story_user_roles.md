@@ -2,15 +2,15 @@
 
 ## Priority: High/ 2
 
-Having User Roles should be defined and implemented early in iteration 1.
+User Roles should be defined and implemented early in iteration 1.
 Having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guest's personal information/ user data as well as assigning the appropriate level of access.
 
-## Estimation: 8 days
+## Estimation: 4 days
 
-* Shang-Ze Lin (Andy Lin):
-* Callum:
-* Jacob Madeley:
-* Darcy Kemp:
+* Shang-Ze Lin (Andy Lin): 3 days
+* Callum: 2 days
+* Jacob Madeley: 4 days
+* Darcy Kemp: 3 days
 
 [//]: # (Any notes on estimation go here)
 
@@ -46,7 +46,7 @@ The use of a database for users will allow for managing their access to other as
 
 ## UI Design:
 
-![A flowchart to represent the potential layout/interactions for the roles.](D:\UNI\CP3407_Advanced_Software_Engineering\assessments\cp3407-project-v2024\images\user-story_user_roles_flowchart.png)
+![A flowchart to represent the potential layout/interactions for the roles.](\cp3407-project-v2024\images\user-story_user_roles_flowchart.png)
 A flowchart to represent the potential layout/interactions for the User Roles.
 
 
