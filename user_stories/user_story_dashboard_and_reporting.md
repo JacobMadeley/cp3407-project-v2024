@@ -7,17 +7,19 @@ Hotel Management Dashboard & Reporting
 ## Priority: 10 (e.g. latest for iteration-1)
 low – A centralized data view is critical for quick decision-making by hotel staff
 
-## Estimation:
+## Estimation: 2 Days
+
+* Shang-Ze Lin (Andy Lin): 3 days
 * Callum: 2 days 
-* 
-* 
+* Jacob Madeley: 4 days
+* Darcy Kemp: 4 days
 
 ## Assumptions (if any):
 Staff will have basic computer/software literacy for comfortable use.
 
 ## Description:
-The dashboard that presents key hotel performance metrics clearly and a reporting tool to help me gain insights into my hotel's operations so that I can identify trends, make informed decisions, and improve occupancy.
-Components may include Checkins / Checkouts / Revenue / vacancy rates.
+The dashboard presents key hotel performance metrics clearly and a reporting tool to help me gain insights into my hotel's operations so that I can identify trends, make informed decisions, and improve occupancy.
+Components may include Check-ins / Checkouts / Revenue/vacancy rates.
 ## Tasks, see chapter 4.
 
 1. Task 1, Estimation XX days
@@ -25,7 +27,7 @@ Components may include Checkins / Checkouts / Revenue / vacancy rates.
 3. Task 3: Determine what data is required to display the components
 4. Task 4: Create any additional extra schema models 
 4. Task 5: Create Views to fetch required data
-5. Task 6: Create front end to dispaly data
+5. Task 6: Create a front end to display data
 
 
 
