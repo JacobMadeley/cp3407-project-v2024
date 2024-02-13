@@ -1,17 +1,17 @@
 # User story title: Payments
 
-## Priority: 4
+## Priority: Low/ 4
 
 Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
+Note you may have different priorities at different stages of your project.
 Again, keep all changes here for marking.
 
-## Estimation: 2 days
+## Estimation: 1 days
 
-* Shang-Ze Lin (Andy Lin):
-* Callum:
-* Jacob Madeley:
-* Darcy Kemp:
+* Shang-Ze Lin (Andy Lin): 1
+* Callum: 1
+* Jacob Madeley: 2
+* Darcy Kemp: 2
 
 ## Assumptions:
 
