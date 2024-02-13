@@ -10,11 +10,12 @@ Any notes on priority go here.
 Note you may have different priorities at different stages of you project.
 Again, keep all changes here for marking.
 
-## Estimation: 8 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Estimation: 4 days
+
+* Shang-Ze Lin (Andy Lin): 4 days
+* Callum: 4 days
+* Jacob Madeley: 5 days
+* Darcy Kemp: 4 days
 
 ## Assumptions (if any):
 Rooms will count as the inventory
