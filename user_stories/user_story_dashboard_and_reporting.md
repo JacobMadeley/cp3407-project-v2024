@@ -1,33 +1,32 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: Dashboard and Reporting
+# User story title
+Hotel Management Dashboard & Reporting
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+## Priority: 10 (e.g. latest for iteration-1)
+low – A centralized data view is critical for quick decision-making by hotel staff
 
-## Priority: Top priot / 1
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
-
-## Estimation: 15 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Estimation:
+* Callum: 2 days 
+* 
+* 
 
 ## Assumptions (if any):
+Staff will have basic computer/software literacy for comfortable use.
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
-
+## Description:
+The dashboard that presents key hotel performance metrics clearly and a reporting tool to help me gain insights into my hotel's operations so that I can identify trends, make informed decisions, and improve occupancy.
+Components may include Checkins / Checkouts / Revenue / vacancy rates.
 ## Tasks, see chapter 4.
 
 1. Task 1, Estimation XX days
-2. ...
+2. Task 2: Wireframe the dashboard
+3. Task 3: Determine what data is required to display the components
+4. Task 4: Create any additional extra schema models 
+4. Task 5: Create Views to fetch required data
+5. Task 6: Create front end to dispaly data
+
 
 
 # UI Design:
@@ -39,3 +38,4 @@ Description-v1: e.g. The web site will show current deals to Orion's orbits user
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
+
