@@ -43,7 +43,8 @@ Hotel will be able to create listings for rooms and assign rooms to guests,  Hot
 4. Ensure functionality between other features.
 
 # UI Design:
- 
+ ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/3482652d-0f6c-4a6c-8a63-96a17e8c3637)
+
 
 
 [//]: # (* &#40;New, not in the textbook&#41; )
