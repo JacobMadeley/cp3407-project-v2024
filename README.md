@@ -21,11 +21,11 @@ Checklist/TODOs:
 - [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
 ## Plane for iteration-1
-- [] [user story title](./user_stories/user_stories_payments.md), priority XX, YY days
+- [] [user_stories_payments](./user_stories/user_stories_payments.md), priority XX, YY days
 - ...
 
 ## Plane for iteration-2
-- [] [user story title](./user_stories/user_stories_payments.md), priority XX, YY days
+- [] [user_stories_payments](./user_stories/user_stories_payments.md), priority XX, YY days
 - ...
 
 Total: ~16 days
