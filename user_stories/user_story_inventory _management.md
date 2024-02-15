@@ -31,8 +31,7 @@ Description-v1: e.g. The web page will allow the management and tracking of hote
 ## Tasks, see chapter 4.
 
 1. Task 1, Estimation XX days
-2. ...
-
+2. Design UI
 
 # UI Design:
 * (New, not in the textbook) 
