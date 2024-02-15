@@ -1,7 +1,6 @@
 
 # User story title: Customer Communication
 
-Keep any other version here as well, e.g. Display current deals, Let the user click on "show-current-deals".
 
 ## Priority: Low / 4
 
