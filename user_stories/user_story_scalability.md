@@ -28,9 +28,7 @@ Task 4: Develop and integrate the actions / UI
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+No requirement for UI design here. Essentially we need to keep in mind how we can make it resuable among various chains. For instance we could use environment variables for the logo img / titles or anywhere branding is. We could have theme variables so the theme could be altered to a clients preference. 
 
 # Completed:
 * (New, not in the textbook) 
