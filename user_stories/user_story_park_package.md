@@ -3,7 +3,7 @@
 
 ## Priority: 4
 
-## Estimation: 2 day
+## Estimation: 2 day / 2 week production time
 * Shang-Ze Lin (Andy Lin): 2 days
 * Callum: 2 days
 * Jacob Madeley: 3 days
