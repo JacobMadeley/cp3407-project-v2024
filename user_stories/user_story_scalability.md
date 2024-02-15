@@ -4,7 +4,7 @@ Operational Scalability and UI Versatility for Diverse Hotel Management
 ## Priority: 10 (e.g. latest for iteration-1)
 Operational scalability and UI versatility are prioritized to ensure the booking management system can be easily adopted by a wide range of hotels, from small independents to large chains, by providing a highly adaptable and intuitive interface.
 
-## Estimation: 1 days
+## Estimation: 1 days / 1 week production time
 The estimation accounts for the design and implementation of customizable features, UI elements, and testing with a focus on usability and adaptability across different hotel operational practices.
 Callum: 1 day
 
