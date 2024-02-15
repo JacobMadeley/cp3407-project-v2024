@@ -49,6 +49,7 @@ The use of a database for users will allow for managing their access to other as
 ![A flowchart to represent the potential layout/interactions for the roles.](\cp3407-project-v2024\images\user-story_user_roles_flowchart.png)
 A flowchart to represent the potential layout/interactions for the User Roles.
 
+![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/7156ec8d-22a0-4fc7-9db0-8091ead816ce)
 
 ## Completed:
 
