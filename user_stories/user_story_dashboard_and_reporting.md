@@ -4,7 +4,7 @@ Hotel Management Dashboard & Reporting
 ## Priority: 10
 low – A centralized data view is critical for quick decision-making by hotel staff
 
-## Estimation: 2 Days
+## Estimation: 2 Days ( 1 day = 5 production days  ) 
 
 * Shang-Ze Lin (Andy Lin): 3 days
 * Callum: 2 days 
