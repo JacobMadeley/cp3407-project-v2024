@@ -38,6 +38,8 @@ Description-v1: e.g. The web page will allow the management and tracking of hote
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/17dda377-38e2-4d98-9532-6a2a582b08b3)
+
 
 # Completed:
 * (New, not in the textbook) 
