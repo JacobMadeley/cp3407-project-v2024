@@ -18,7 +18,7 @@ Again, keep all changes here for marking.
 * Darcy Kemp: 4 days
 
 ## Assumptions (if any):
-Rooms will count as the inventory.
+Rooms will count as the inventory. /n
 Hotels will be able to manage and add their own rooms.
 Hotels can set their room prices individually.
 
