@@ -28,10 +28,6 @@ Levels of access for these User Roles could include; Admin, Staff, Guest.<br><br
 Having different levels of access associated with User Roles will allow for better-managed accounts as well as distinguishing Hotel staff from their Guests.
 The use of a database for users will allow for managing their access to other aspects of the App/Website such as Inventory management restricted to Guests but accessible to Staff roles, while another section of 'My Hotel' like Room Status Updates is accessible to all User Roles.
 
-[//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
-
-[//]: # (In a real project, your older versions could be viewed via commits.)
-
 ## Tasks:
 
 1. Develop an appropriate Database for 'My Hotel' to manage User Roles and their levels of access.
