@@ -1,10 +1,7 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title
 Hotel Management Dashboard & Reporting
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: 10
 low – A centralized data view is critical for quick decision-making by hotel staff
 
 ## Estimation: 2 Days
@@ -34,7 +31,6 @@ Components may include Check-ins / Checkouts / Revenue/vacancy rates.
 # UI Design:
 The dashboard should feature some at a glance information to give insights into historical trends and current data.
 It's the base page for easy navigation to move around the site. 
-
 
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/89110361/0bb6c432-9a18-4b9c-8314-ce685238dd01)
 
