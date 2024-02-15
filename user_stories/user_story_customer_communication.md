@@ -1,17 +1,11 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
 # User story title: Customer Communication
 
 Keep any other version here as well, e.g. Display current deals, Let the user click on "show-current-deals".
 
 ## Priority: Low / 4
-Any notes on priority go here. 
-Note you may have different priorities at different stages of your project.
-Again, keep all changes here for marking.
 
 ## Estimation: 6 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
 - Shang-Ze Lin (Andy Lin): 6
 - Callum: 5
 - Jacob Madeley: 6
@@ -29,7 +23,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 - Automated reminders for upcoming bookings are desirable but not mandatory.
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
-Description-v1: Implement a robust communication system to facilitate seamless interaction between MyHotel users (hotel staff) and guests. This system will include automated email notifications for booking confirmations, reminders, and feedback requests. Additionally, a feedback form will be provided for guests to share their experiences and suggestions. Personalization features will be incorporated to tailor communication based on booking specifics.
+Implement a robust communication system to facilitate seamless interaction between MyHotel users (hotel staff) and guests. This system will include automated email notifications for booking confirmations, reminders, and feedback requests. Additionally, a feedback form will be provided for guests to share their experiences and suggestions. Personalization features will be incorporated to tailor communication based on booking specifics.
 
 ## Tasks, see chapter 4.
 
@@ -41,9 +35,7 @@ Description-v1: Implement a robust communication system to facilitate seamless i
 6. Document the communication system's features and functionalities for future reference and maintenance.
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/ec6d1118-1967-4b7e-9fde-37c1dd949669)
 
 # Completed:
