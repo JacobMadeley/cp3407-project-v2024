@@ -11,8 +11,6 @@ As the 'My Hotel' project is intended to be sold as a service this is a high pri
 * Jacob Madeley: 8
 * Darcy Kemp: 5
 
-[//]: # (Any notes on estimation go here)
-
 ## Assumptions:
 
 * Bookings can be made in the App/Website by users.
@@ -28,12 +26,9 @@ As the 'My Hotel' project is intended to be sold as a service this is a high pri
 
 ## Description: 
 
-Description-v1: A Booking Management system for; room bookings, handling availability, check-ins, check-outs, reservations, and room assignments.
+A Booking Management system for; room bookings, handling availability, check-ins, check-outs, reservations, and room assignments.
 Hotel will be able to create listings for rooms and assign rooms to guests,  Hotels and guests will be able to see availabilities of rooms, assigned room. the check-in/check-out times, reservations and payment options.
 
-[//]: # (You need to keep all versions here so that your instructor/marker can see your changes easily. )
-
-[//]: # (In a real project, your older versions could be viewed via commits.)
 
 ## Tasks:
 
@@ -46,12 +41,6 @@ Hotel will be able to create listings for rooms and assign rooms to guests,  Hot
  ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/3482652d-0f6c-4a6c-8a63-96a17e8c3637)
 
 
-
-[//]: # (* &#40;New, not in the textbook&#41; )
-
-[//]: # (* Many user stories are connected to a User interface.)
-
-[//]: # (* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/]&#40;https://ninjamock.com/&#41;)
 
 # Completed:
 
