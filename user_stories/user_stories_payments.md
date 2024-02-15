@@ -2,10 +2,6 @@
 
 ## Priority: Low/ 4
 
-Any notes on priority go here. 
-Note you may have different priorities at different stages of your project.
-Again, keep all changes here for marking.
-
 ## Estimation: 1 days
 
 * Shang-Ze Lin (Andy Lin): 1
@@ -15,19 +11,24 @@ Again, keep all changes here for marking.
 
 ## Assumptions:
 
+Users require a secure and efficient way to process payments within the application.
+Stripe integration will handle all payment processing, adhering to the latest security protocols.
+The UI will be intuitive and user-friendly, allowing for seamless transactions.
+Real-time notifications are crucial for a good user experience, ensuring users are immediately informed about their transaction status.
 ## Description:
 
-Description-v1:
+Implement a payment system within the application to facilitate secure and efficient transactions. The system will record all transactions in a database and notify users of their transaction details, including invoices or order confirmations, through the application's notification system.
 
 ## Tasks:
 
-1. 
+1. Integrate stripe
+2. Create UI
+3. Ensure security is maintained
+4. Record transaction in db and notfify users of transaction invoice / order
 
 # UI Design:
+![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/89110361/678aa3db-a25c-4cb2-bc82-d6e4fd9c72aa)
 
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
 
