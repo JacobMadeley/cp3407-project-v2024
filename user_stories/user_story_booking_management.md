@@ -4,7 +4,7 @@
 
 As the 'My Hotel' project is intended to be sold as a service this is a high priority feature of the project and should be implemented in the first iteration. 
 
-## Estimation: 5
+## Estimation: 5 ( 1 day = 5 production days  ) 
 
 * Shang-Ze Lin (Andy Lin): 6
 * Callum: 5
