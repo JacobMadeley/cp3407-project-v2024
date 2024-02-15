@@ -32,9 +32,9 @@ Components may include Check-ins / Checkouts / Revenue/vacancy rates.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+The dashboard should feature some at a glance information to give insights into historical trends and current data.
+It's the base page for easy navigation to move around the site. 
+![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/89110361/0bb6c432-9a18-4b9c-8314-ce685238dd01)
 
 # Completed:
 * (New, not in the textbook) 
