@@ -44,6 +44,7 @@ Description-v1: Implement a robust communication system to facilitate seamless i
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/ec6d1118-1967-4b7e-9fde-37c1dd949669)
 
 # Completed:
 * (New, not in the textbook) 
