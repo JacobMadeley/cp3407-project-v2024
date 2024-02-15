@@ -3,7 +3,7 @@
 
 ## Priority: Low
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 2 days ( 1 day = 5 production days  ) 
 - Shang-Ze Lin (Andy Lin): 2
 - Callum: 2
 - Jacob Madeley: 2
