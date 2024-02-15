@@ -2,7 +2,7 @@
 
 ## Priority: Low/ 4
 
-## Estimation: 1 days
+## Estimation: 1 days  ( 1 day = 5 production days  ) 
 
 * Shang-Ze Lin (Andy Lin): 1
 * Callum: 1
