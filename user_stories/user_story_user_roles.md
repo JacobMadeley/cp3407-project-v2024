@@ -5,7 +5,7 @@
 User Roles should be defined and implemented early in iteration 1.
 Having appropriate levels of access to users is imperative to maintaining the integrity and confidentiality of "My Hotel" and how they manage Guest's personal information/ user data as well as assigning the appropriate level of access.
 
-## Estimation: 4 days
+## Estimation: 4 days / 4 weeks production time
 
 * Shang-Ze Lin (Andy Lin): 3 days
 * Callum: 2 days
