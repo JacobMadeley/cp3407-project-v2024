@@ -25,7 +25,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 - Hotel administrators will require training or documentation to effectively utilize customization features.
 
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
+## Description:
 Description-v1: Develop a comprehensive customization feature set that enables hotel administrators to tailor the MyHotel platform to their specific needs. This includes options to customize room types, pricing, and user interface elements. The goal is to empower hotels to create a unique and branded experience for their guests while streamlining their operational processes.
 
 ## Tasks, see chapter 4.
