@@ -18,9 +18,9 @@ Again, keep all changes here for marking.
 * Darcy Kemp: 4 days
 
 ## Assumptions (if any):
-Rooms will count as the inventory. /n
-Hotels will be able to manage and add their own rooms.
-Hotels can set their room prices individually.
+* Rooms will count as the inventory. 
+* Hotels will be able to manage and add their own rooms.
+* Hotels can set their room prices individually.
 
 ## Description: e.g. The web page will allow the management and tracking of hotel rooms. 
 You need to keep all versions here so that your instructor/marker can see your changes easily. 
