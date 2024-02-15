@@ -2,7 +2,7 @@
 
 ## Priority: after dashboard and reporting/ 2 
 
-## Estimation: 4 days
+## Estimation: 4 days ( 1 day = 5 production days  ) 
 
 * Shang-Ze Lin (Andy Lin): 4 days
 * Callum: 4 days
