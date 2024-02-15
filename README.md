@@ -19,7 +19,14 @@ Checklist/TODOs:
 - [] GitHub entry timestamp is BEFORE the iteration-1
 - [] User stories are correct: see p39
 - [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-- [] [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+
+## Plane for iteration-1
+- [] [user story title](./user_stories/user_stories_payments.md), priority XX, YY days
+- ...
+
+## Plane for iteration-2
+- [] [user story title](./user_stories/user_stories_payments.md), priority XX, YY days
+- ...
 
 Total: ~16 days
 
