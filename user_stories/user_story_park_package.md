@@ -1,7 +1,7 @@
 # User story title: Show and select theme park packages
 
 
-## Priority: 4
+## Priority: 10 / low
 
 ## Estimation: 2 day / 2 week production time
 * Shang-Ze Lin (Andy Lin): 2 days
