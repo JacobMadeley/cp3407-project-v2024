@@ -21,18 +21,18 @@ Checklist/TODOs:
 - [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
 ## Plane for iteration-1
-- [] [user_stories_payments](./user_stories/user_story_dashboard_and_reporting.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_inventory_management.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_user_roles.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_customer_communication.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_booking_management.md), priority XX, YY days
+- [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority XX, YY days
+- [] [user_stories_inventory_management](./user_stories/user_stories_inventory_management.md), priority XX, YY days
+- [] [user_stories_user_roles](./user_stories/user_stories_user_roles.md), priority XX, YY days
+- [] [user_stories_customer_communication](./user_stories/user_stories_customer_communication.md), priority XX, YY days
+- [] [user_stories_booking_management](./user_stories/user_stories_booking_management.md), priority XX, YY days
 
 ## Plane for iteration-2
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_customisation.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_park_package.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_room_status_updates.md), priority XX, YY days
-- [] [user_stories_payments](./user_stories/user_stories_scalability.md), priority XX, YY days
+- [] [user_stories_customisation](./user_stories/user_stories_customisation.md), priority XX, YY days
+- [] [user_stories_park_package](./user_stories/user_stories_park_package.md), priority XX, YY days
+- [] [user_stories_room_status_updates](./user_stories/user_stories_room_status_updates.md), priority XX, YY days
+- [] [user_stories_scalability](./user_stories/user_stories_scalability.md), priority XX, YY days
 
 Total: ~16 days
 
