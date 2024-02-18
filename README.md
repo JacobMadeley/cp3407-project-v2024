@@ -26,6 +26,7 @@ Checklist/TODOs:
 - [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), High/ 2, 4 days / 4 weeks production time
 - [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, 6 days ( 1 day = 5 production days )
 - [] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
+
 Total: ~17 days ( approx 70 - 80 days production )
 ## Plane for iteration-2
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: Low/ 7, 1 days ( 1 day = 5 production days )
