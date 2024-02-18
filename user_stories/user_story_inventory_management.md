@@ -20,6 +20,8 @@
 
 1. Task 1, Estimation XX days
 2. Design UI
+3. Create database interaction system for Room input and modification
+4. Reflect modifications and additions in relevant areas
 
 # UI Design:
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/17dda377-38e2-4d98-9532-6a2a582b08b3)
