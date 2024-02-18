@@ -21,21 +21,21 @@ Checklist/TODOs:
 - [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
 ## Plane for iteration-1
-- [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority 5 ( Med ), Estimation: 2 ( 1 day = 5 production days )
-- [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), priority 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
-- [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), priority 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
-- [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
+- [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), Priority: 5 ( Med ), Estimation: 2 ( 1 day = 5 production days )
+- [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
+- [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
 - [] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
+- [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 
-Total: ~17 days ( approx 70 - 80 days production )
+Total: ~17 days ( approx 17 weeks of production time )
 ## Plane for iteration-2
-- [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 1 ( 1 day = 5 production days )
+- [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
 - [] [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: 8 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_park_package](./user_stories/user_story_park_package.md), Priority: 10 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3 ( High ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
 
-Total: ~8 days ( approx 30 - 40 days production )
+Total: ~13 days ( approx 13 weeks of production time )
 
 
 # Assignment-2: Iterations
