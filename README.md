@@ -22,17 +22,17 @@ Checklist/TODOs:
 
 ## Plane for iteration-1
 - [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority 5 ( Med ), 1 day = 5 production days
-- [] [user_stories_inventory_management](./user_stories/user_stories_inventory_management.md), priority 2 ( high ), ( 1 day = 5 production days )
-- [] [user_stories_user_roles](./user_stories/user_stories_user_roles.md), High/ 2, 4 days / 4 weeks production time
-- [] [user_stories_customer_communication](./user_stories/user_stories_customer_communication.md), Priority: Low / 7, 6 days ( 1 day = 5 production days )
-- [] [user_stories_booking_management](./user_stories/user_stories_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
+- [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), priority 2 ( high ), ( 1 day = 5 production days )
+- [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), High/ 2, 4 days / 4 weeks production time
+- [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, 6 days ( 1 day = 5 production days )
+- [] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
 Total: ~17 days ( approx 70 - 80 days production )
 ## Plane for iteration-2
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: Low/ 7, 1 days ( 1 day = 5 production days )
-- [] [user_stories_customisation](./user_stories/user_stories_customisation.md), Priority: Low / 2, 2 days ( 1 day = 5 production days )
-- [] [user_stories_park_package](./user_stories/user_stories_park_package.md), priority 10 /low, Estimation: 2 day / 2 week production time
-- [] [user_stories_room_status_updates](./user_stories/user_stories_room_status_updates.md), Priority: 3, Estimation: 2 day / 2 weeks production time
-- [] [user_stories_scalability](./user_stories/user_stories_scalability.md), Priority: 10, Estimation: 1 days / 1 week production time
+- [] [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: Low / 2, 2 days ( 1 day = 5 production days )
+- [] [user_stories_park_package](./user_stories/user_story_park_package.md), priority 10 /low, Estimation: 2 day / 2 week production time
+- [] [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3, Estimation: 2 day / 2 weeks production time
+- [] [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10, Estimation: 1 days / 1 week production time
 
 Total: ~8 days ( approx 30 - 40 days production )
 
