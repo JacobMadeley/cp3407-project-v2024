@@ -1,4 +1,4 @@
-# User story title: Payments
+# User story title: Make Payments Service
 
 ## Priority: Low/ 4
 
