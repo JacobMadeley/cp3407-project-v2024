@@ -17,7 +17,9 @@ Relevant room status may mean different things based on who you are.
 ## Tasks
 
 1. Task 1, Estimation XX days
-2. ...
+2. Design UI
+3. Outline what room status info is useful for what user roles
+4. Communicate this status to the correct users
 
 
 # UI Design:
