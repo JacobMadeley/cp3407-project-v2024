@@ -1,6 +1,6 @@
 # User story title: Track and Manage room inventory
 
-## Priority: after dashboard and reporting/ 2 
+## Priority: 2 
 
 ## Estimation: 4 days ( 1 day = 5 production days  ) 
 
