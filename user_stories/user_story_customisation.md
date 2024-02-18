@@ -1,5 +1,5 @@
 
-# User story title: Customisation
+# User story title: Facilitate Customisation 
 
 ## Priority: Low
 
