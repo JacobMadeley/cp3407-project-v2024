@@ -1,4 +1,4 @@
-# User story title: Booking Management
+# User story title: Create Booking Management Service
 
 ## Priority: high / 2
 
