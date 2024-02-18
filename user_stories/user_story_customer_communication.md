@@ -2,7 +2,7 @@
 # User story title: Implement Customer Communication Feature
 
 
-## Priority: Low / 4
+## Priority: Low / 7
 
 ## Estimation: 6 days ( 1 day = 5 production days  ) 
 - Shang-Ze Lin (Andy Lin): 6
