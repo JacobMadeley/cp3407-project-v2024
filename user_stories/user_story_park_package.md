@@ -10,14 +10,18 @@
 * Darcy Kemp: 2 days
 
 ## Assumptions (if any):
-Relevant room status may mean different things based on who you are.
+Park deals will be negotiated by the hotel and added by the hotel
+Prices may need to be recalculated for booking length
 
-## Description: e.g. The web page will show available theme park packages and options to select from.
+## Description: The web page will show available theme park packages and options to select from.
 
 ## Tasks
 
 1. Task 1, Estimation XX days
-2. ...
+2. Design UI
+3. Create a Table layout for Theme=Parks
+4. Find/Create dummy data
+5. Factor in park selection to booking cost
 
 
 # UI Design:
