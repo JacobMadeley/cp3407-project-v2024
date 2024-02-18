@@ -1,5 +1,5 @@
 
-# User story title: Customer Communication
+# User story title: Implement Customer Communication Feature
 
 
 ## Priority: Low / 4
