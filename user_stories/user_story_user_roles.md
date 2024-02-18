@@ -1,4 +1,4 @@
-# User story: User Roles
+# User story: Define User Roles
 
 ## Priority: High/ 2
 
