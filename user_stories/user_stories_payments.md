@@ -1,6 +1,6 @@
 # User story title: Make Payments Service
 
-## Priority: Low/ 4
+## Priority: Low/ 7
 
 ## Estimation: 1 days  ( 1 day = 5 production days  ) 
 
