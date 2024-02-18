@@ -1,10 +1,3 @@
-# cp3407 Assessment 1 Group:~~~~~~~~
-
-## How to submit [You may delete this before submitting]
-1. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-2. Submit link to your repository
-3. Download your GitHub repository as a zip file and submit via LearnJCU.
-
 ## Team
 
 1. Jacob Madeley
