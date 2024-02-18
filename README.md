@@ -21,11 +21,11 @@ Checklist/TODOs:
 - [] Must have more user stories than fits into iterations 1 and 2. To practice the priority.
 
 ## Plane for iteration-1
-- [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority XX, YY days
-- [] [user_stories_inventory_management](./user_stories/user_stories_inventory_management.md), priority XX, YY days
-- [] [user_stories_user_roles](./user_stories/user_stories_user_roles.md), priority XX, YY days
-- [] [user_stories_customer_communication](./user_stories/user_stories_customer_communication.md), priority XX, YY days
-- [] [user_stories_booking_management](./user_stories/user_stories_booking_management.md), priority XX, YY days
+- [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority 10 ( low ), 1 day = 5 production days
+- [] [user_stories_inventory_management](./user_stories/user_stories_inventory_management.md), priority 2 ( high ), ( 1 day = 5 production days )
+- [] [user_stories_user_roles](./user_stories/user_stories_user_roles.md), High/ 2, 4 days / 4 weeks production time
+- [] [user_stories_customer_communication](./user_stories/user_stories_customer_communication.md), Priority: Low / 4, 6 days ( 1 day = 5 production days )
+- [] [user_stories_booking_management](./user_stories/user_stories_booking_management.md), Priority: Low / 4, Estimation: 5 ( 1 day = 5 production days )
 
 ## Plane for iteration-2
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), priority XX, YY days
