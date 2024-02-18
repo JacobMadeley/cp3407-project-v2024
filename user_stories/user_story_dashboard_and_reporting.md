@@ -1,5 +1,5 @@
 # User story title
-Hotel Management Dashboard & Reporting
+Dosplay Hotel Management Dashboard & Implement Reporting Service
 
 ## Priority: 10
 low – A centralized data view is critical for quick decision-making by hotel staff
