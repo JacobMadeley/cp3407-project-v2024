@@ -30,7 +30,7 @@ Total: ~17 days ( approx 70 - 80 days production )
 ## Plane for iteration-2
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: Low/ 7, 1 days ( 1 day = 5 production days )
 - [] [user_stories_customisation](./user_stories/user_stories_customisation.md), Priority: Low / 2, 2 days ( 1 day = 5 production days )
-- [] [user_stories_park_package](./user_stories/user_stories_park_package.md), priority XX, Estimation: 2 day / 2 week production time
+- [] [user_stories_park_package](./user_stories/user_stories_park_package.md), priority 10 /low, Estimation: 2 day / 2 week production time
 - [] [user_stories_room_status_updates](./user_stories/user_stories_room_status_updates.md), Priority: 3, Estimation: 2 day / 2 weeks production time
 - [] [user_stories_scalability](./user_stories/user_stories_scalability.md), Priority: 10, Estimation: 1 days / 1 week production time
 
