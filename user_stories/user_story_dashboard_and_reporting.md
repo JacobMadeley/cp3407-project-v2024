@@ -1,7 +1,7 @@
 # User story title
 Dosplay Hotel Management Dashboard & Implement Reporting Service
 
-## Priority: 10
+## Priority: 5
 low – A centralized data view is critical for quick decision-making by hotel staff
 
 ## Estimation: 2 Days ( 1 day = 5 production days  ) 
