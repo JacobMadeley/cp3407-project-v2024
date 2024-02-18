@@ -22,7 +22,7 @@ Checklist/TODOs:
 
 ## Plane for iteration-1
 - [] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), priority 5 ( Med ), 1 day = 5 production days
-- [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), priority 2 ( high ), ( 1 day = 5 production days )
+- [] [user_stories_inventory_management](./user_stories/user_story_inventory _management.md), priority 2 ( high ), ( 1 day = 5 production days )
 - [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), High/ 2, 4 days / 4 weeks production time
 - [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, 6 days ( 1 day = 5 production days )
 - [] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
