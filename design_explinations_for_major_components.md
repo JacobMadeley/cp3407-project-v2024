@@ -1,1 +1,1 @@
-# Design Explinations for Major Components
+# Design Explanations for Major Components

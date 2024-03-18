@@ -11,7 +11,7 @@ Checklist:
 
 User stories or tasks (see chapter 4):
 
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days
+1. [Dashboard and Reporting](./user_stories/user_story_dashboard_and_reporting.md), priority XX, YY days
 2. ...
 
 In progress:
@@ -30,6 +30,6 @@ Update this at least once per week
 
 * 4 weeks left, xx days of estimated amount of work
 * 2 weeks left, xx days
-* 1 weeks left, xx days
+* 1 week left, xx days
 * 0 weeks left, xx days
 * Actual Velocity: ??

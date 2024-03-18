@@ -5,28 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3812bdb4-6647-472a-88ea-2aa80ab340de" name="Changes" comment="Update for file names">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/building_and_development_tools_explanation.md" beforeDir="false" afterPath="$PROJECT_DIR$/building_and_development_tools_explanation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design_explinations_for_major_components.md" beforeDir="false" afterPath="$PROJECT_DIR$/design_explinations_for_major_components.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/illustration_and-or_promotion_of_delivered_solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/illustration_and-or_promotion_of_delivered_solution.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/iteration_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/iteration_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iteration_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/iteration_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing_explenation.md" beforeDir="false" afterPath="$PROJECT_DIR$/testing_explenation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_stories_payments.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_stories_payments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_booking_management.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_booking_management.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_customer_communication.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_customer_communication.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_customisation.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_customisation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_dashboard_and_reporting.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_dashboard_and_reporting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_inventory_management.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_inventory_management.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_park_package.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_park_package.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_room_status_updates.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_room_status_updates.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_scalability.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_scalability.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_stories/user_story_user_roles.md" beforeDir="false" afterPath="$PROJECT_DIR$/user_stories/user_story_user_roles.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -50,17 +40,12 @@
     &quot;author&quot;: &quot;JacobMadeley&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="6a2408f2-6a29-40aa-8a08-ef4994e88991" />
-        <option name="url" value="https://github.com/JacobMadeley/cp3407-project-v2024.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\Programs Data Drive\PHP\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -70,23 +55,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/UNI/CP3407_Advanced_Software_Engineering/assessments/CP3407_Hotel_Booking_App&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UNI/CP3407_Advanced_Software_Engineering/assessments/CP3407_Hotel_Booking_App",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Csv.Editor.Settings",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -114,9 +106,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707714440773</updated>
+      <workItem from="1709195103188" duration="1248000" />
+      <workItem from="1709608845947" duration="613000" />
+      <workItem from="1709710907627" duration="34769000" />
+      <workItem from="1710052427321" duration="633000" />
+      <workItem from="1710144492622" duration="689000" />
+      <workItem from="1710227105527" duration="614000" />
+      <workItem from="1710228711212" duration="28000" />
+      <workItem from="1710298040843" duration="148000" />
+      <workItem from="1710298372713" duration="631000" />
+      <workItem from="1710312434005" duration="2000" />
+      <workItem from="1710312448288" duration="883000" />
+      <workItem from="1710386894755" duration="329000" />
+      <workItem from="1710737135989" duration="725000" />
+      <workItem from="1710737876389" duration="1431000" />
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
