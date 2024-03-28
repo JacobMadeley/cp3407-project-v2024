@@ -9,7 +9,7 @@
 * Jacob Madeley: 5 days
 * Darcy Kemp: 4 days
 
-## Assumptions (if any)':'
+## Assumptions (if any):
 
 * Rooms will count as the inventory.
 * Hotels will be able to manage and add their own rooms.
@@ -17,18 +17,18 @@
 
 ## Description: e.g. The web page will allow the management and tracking of hotel rooms'.'
 
-## Tasks
+## Tasks:
 
 1. Task 1, Estimation XX days
 2. Design UI
 3. Create database interaction system for Room input and modification
 4. Reflect modifications and additions in relevant areas
 
-## UI Design':'
+## UI Design:
 
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/17dda377-38e2-4d98-9532-6a2a582b08b3)
 
-## Completed':'
+## Completed:
 
 * (New, not in the textbook)
 * Insert screenshots of completed.

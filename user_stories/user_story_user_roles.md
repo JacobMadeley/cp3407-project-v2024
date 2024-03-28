@@ -14,20 +14,20 @@ Having appropriate levels of access to users is imperative to maintaining the in
 
 [//]: # (Any notes on estimation go here)
 
-## Assumptions':'
+## Assumptions:
 
 * A modern database will be needed to manage User Roles and their appropriate levels of access.
 * Administration will have full access to managing new users and assigning them appropriate User Roles for Staff Users.
 * Guests will be 'logging in' possibly via a pre-made "My Hotel" assigned account or one made via a 'sign-up/ create' account process.
 
-## Description':'
+## Description:
 
 Description-v1: Define the User Roles for different users of the "My Hotel" App/Website and their respective level of access, some of these User Roles could include; Administrators, Reception staff, Housekeeping staff and guests.
 Levels of access for these User Roles could include; Admin, Staff, Guest.
 Having different levels of access associated with User Roles will allow for better-managed accounts as well as distinguishing Hotel staff from their Guests.
 The use of a database for users will allow for managing their access to other aspects of the App/Website such as Inventory management restricted to Guests but accessible to Staff roles, while another section of 'My Hotel' like Room Status Updates is accessible to all User Roles.
 
-## Tasks':'
+## Tasks:
 
 1. Develop an appropriate Database for 'My Hotel' to manage User Roles and their levels of access.
 <br><br>
@@ -39,19 +39,11 @@ The use of a database for users will allow for managing their access to other as
 <br><br>
 5. Allow User Roles to access appropriate services on the 'My Hotel' App/Website.
 
-## UI Design':'
+## UI Design:
 
 ![A flowchart to represent the potential layout/interactions for the roles.](\cp3407-project-v2024\images\user-story_user_roles_flowchart.png)
 A flowchart to represent the potential layout/interactions for the User Roles.
 
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/7156ec8d-22a0-4fc7-9db0-8091ead816ce)
 
-## Completed':'
-
-*
-
-[//]: # (* &#40;New, not in the textbook&#41; )
-
-[//]: # (* Insert screenshots of completed. )
-
-[//]: # (* If you have multiple versions &#40;changes between interactions &#41;, show them all.)
+## Completed:
