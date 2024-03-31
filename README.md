@@ -4,6 +4,7 @@
 2. Shang-Ze (Andy) Lin
 3. Callum Gracie
 4. Darcy Kemp
+5. Louis Bui
 
 ## Assignment-1 Project planning BEFORE iteration-1:
 
@@ -40,7 +41,7 @@ Total: ~13 days (approx. 13 weeks of production time)
 
 ## Assignment-2: Iterations
 
-### Iteration 1 [duration 3-4 weeks] (add start and end dates)
+### Iteration 1 [duration 4-7 weeks] (19/02/2024 - 17/03/2024
 
 - Goal is to have 2 iterations during a trimester of teaching.
 - Update the following during each week prac session
@@ -53,9 +54,9 @@ Total: ~13 days (approx. 13 weeks of production time)
 5. [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 
 Estimate: ~17 days (approx. 17 weeks of production time )
-Total: YY days
+Total: 20 days
 
-### Iteration 2 [duration 3-4 weeks] (add start and end dates)
+### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 11/04/2024)
 
 - Goal is to have 2 iterations during a trimester of teaching.
 - Update the following during each week prac session
@@ -68,13 +69,13 @@ Total: YY days
 5. [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
 
 Estimate: ~13 days (approx. 13 weeks of production time)
-Total: YY days
+Total: 20 days
 
 ### Not enough time/developers':'
 
 [//]: # (1. [user story title]&#40;./user_stories/user_story_01_title.md&#41;, priority XX, YY days)
 
-Total: YY days
+Total: 40 days
 
 ## Actual iterations
 
