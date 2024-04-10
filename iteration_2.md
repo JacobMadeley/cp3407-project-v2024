@@ -1,35 +1,49 @@
 # Actual iteration-2 18/03/2024 to 11/04/2024
 
-Checklist:
+
+## Checklist:
 
 1. GitHub entry timestamps
 2. User stories are correct:
 
+
+## Velocity Estimation:
 * Assumed Velocity FROM iteration-1: ??
-* Number of developers: 3
+* Number of developers: 4
 * Total estimated amount of work: YY days
 
-User stories or tasks:
+
+## User stories or tasks:
 
 1. [Customer Communication](./user_stories/user_story_customer_communication.md)
-2. Payment Processing
-3. Park Package Selection
+2. [Payments](./user_stories/user_stories_payments.md)
+3. [Park Package Selection](./user_stories/user_story_park_package.md)
 4. [Customisation](./user_stories/user_story_customisation.md)
 5. [Scalability](./user_stories/user_story_scalability.md)
 6. Improvements to the UI
 7. Bug fixes
-8. Deployment/ Hosting testing
-9. Database Migration
-10. Documentation
+8. Forms for users, staff and the Hotel
+9. Deployment/ Hosting testing
+10. Database Migration
+11. Documentation
 
 
-In progress:
+## In progress:
 
-* ...
+* Deployment/ Hosting testing
+* Improvements to the UI
+* Park Package Selection
+* Scalability
 
-Completed:
 
-* ...
+## Completed:
+
+* Booking management
+* Payments
+* Room inventory
+* Room status updates
+* User roles and permissions for Hotel Staff and Guests
+
 
 ## Burn Down for iteration-2:
 
