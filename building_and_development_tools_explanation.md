@@ -17,6 +17,11 @@ The team agreed to use the following building tools to compile the project and g
 - CSS3
 - JavaScript
 - Bootstrap 5.1.3
+- AWS
+- RDS
+- VPC
+- EC2
+- Elastic Beanstalk 
 
 ## Development Tools
 
