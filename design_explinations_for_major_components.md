@@ -12,7 +12,7 @@
 
 **Priority**: 2
 
-## User story title: User roles and permissions for Hotel Staff and Guests
+## User story title: User Roles and permissions for Hotel Staff and Guests
 
 **Priority**: 1
 
@@ -26,4 +26,4 @@
 
 ## User story title: Payment Gateway Integration
 
-**Priority**: 1
+**Priority**: 10

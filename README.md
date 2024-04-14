@@ -1,10 +1,10 @@
-# Team ~~~~
+# Team
 
 1. Jacob Madeley
 2. Shang-Ze (Andy) Lin
-3. Callum Gracie
-4. Darcy Kemp
-5. Louis Bui
+3. Darcy Kemp
+4. Louis Bui
+5. Callum Gracie(left the group)
 
 ## Assignment-1 Project planning BEFORE iteration-1:
 
@@ -21,21 +21,28 @@ Checklist/TODOs:
 - [x] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), Priority: 5 ( Med ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
 - [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
-- [] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
+- [x] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
-- [] Rational Database Implementation, Priority: 2, Estimation: 5 ( 1 day = 5 production days )
+- [x] Rational Database Implementation, Priority: 2, Estimation: 5 ( 1 day = 5 production days )
 
 Total: ~17 days ( approx. 17 weeks of production time )
 
 ## Plan for iteration-2
 
-Checklist/TODOs:
+### Checklist/TODOs:
 
 - [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
-- [] [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: 8 ( Low ), Estimation: 2 ( 1 day = 5 production days )
+- [x] [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: 8 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_park_package](./user_stories/user_story_park_package.md), Priority: 10 ( Low ), Estimation: 2 ( 1 day = 5 production days )
-- [] [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3 ( High ), Estimation: 2 ( 1 day = 5 production days )
+- [x] [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3 ( High ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
+
+#### Additional user stories from previous iteration
+
+- [x] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
+- [x] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
+- [x] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
+- [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
 
 Total: ~13 days (approx. 13 weeks of production time)
 
@@ -44,8 +51,9 @@ Total: ~13 days (approx. 13 weeks of production time)
 ### Iteration 1 [duration 4-7 weeks] (19/02/2024 - 17/03/2024
 
 - Goal is to have 2 iterations during a trimester of teaching.
-- Update the following during each week prac session
-- During prac's, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
+- Update the following during each week prac session.
+- The use of GitHub to track the progress of the project, and help ensure the team can keep track of the prioritised
+user stories to produce a .
 
 1. [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), Priority: 5 ( Med ), Estimation: 2 ( 1 day = 5 production days )
 2. [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
@@ -58,9 +66,7 @@ Total: 20 days
 
 ### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 11/04/2024)
 
-- Goal is to have 2 iterations during a trimester of teaching.
-- Update the following during each week prac session
-- During prac's, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
+- Iteration 1 had issues with the team workload due to a member leaving the group.
 
 1. [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
 2. [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: 8 ( Low ), Estimation: 2 ( 1 day = 5 production days )

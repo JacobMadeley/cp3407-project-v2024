@@ -9,9 +9,9 @@
 
 ## Velocity Estimation:
 
-* Assumed Velocity: ??
-* Number of developers: 4
-* Total estimated amount of work: 8 days
+* Assumed Velocity: 0.7
+* Number of developers: 3
+* Total estimated amount of work: 20 days
 
 
 ## User stories or tasks:
@@ -22,12 +22,16 @@
 4. [Track and Manage room inventory](./user_stories/user_story_inventory_management.md), priority 2, 4 days
 5. Documentation, priority 5, 1 day
 6. [User roles and permissions for Hotel Staff and Guests](./user_stories/user_story_user_roles.md), priority 2, 3 days
+7. [Customer Communication](./user_stories/user_story_customer_communication.md), priority 5, 4 days
+8. [Payments](./user_stories/user_stories_payments.md), priority 2, 2 days
 
 
 ## In progress:
 
 * Documentation
 * Track and Manage room inventory
+* Customer Communication
+* payments
 
 
 ## Completed:
@@ -40,8 +44,24 @@
 
 ## Burn Down for iteration-1:
 
-* 4 weeks left, 22 days of estimated amount of work
-* 2 weeks left, 18 days
-* 1 week left, 10 days
-* 0 weeks left, 5 days
+* 4 weeks left, 20 days of estimated amount of work
+* 3 weeks left, 15 days
+* 2 weeks left, 10 days
+* 1 week left, 5 days
+* 0 weeks left, 0 days
 * Actual Velocity: ??
+
+## Tasks for the next iteration:
+
+* Track and Manage room inventory
+* Customer Communication
+* payments
+* Park Package Selection
+* Customisation
+* Scalability
+* Improvements to the UI
+* Bug fixes
+* Forms for users, staff and the Hotel
+* Deployment/ Hosting testing
+* Database Migration
+* Documentation

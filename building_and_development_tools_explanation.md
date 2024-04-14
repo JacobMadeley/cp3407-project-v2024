@@ -10,8 +10,8 @@ while the development tools are used to write and test the code.
 ## Building Tools
 
 The team agreed to use the following building tools to compile the project and generate the final results of iteration 2:
-- Python 3.9.7
-- Django 3.2.8
+- Python 3.12
+- Django 5.0.2
 - PostgreSQL 13.4
 - HTML5
 - CSS3
