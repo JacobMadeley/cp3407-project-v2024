@@ -19,8 +19,8 @@ Checklist/TODOs:
 Checklist/TODOs:
 
 - [x] [user_stories_dashboard_and_reporting](./user_stories/user_story_dashboard_and_reporting.md), Priority: 5 ( Med ), Estimation: 2 ( 1 day = 5 production days )
-- [] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
-- [] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
+- [x] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
+- [x] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
 - [x] [user_stories_booking_management](./user_stories/user_story_booking_management.md), Priority: High / 2, Estimation: 5 ( 1 day = 5 production days )
 - [] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [x] Rational Database Implementation, Priority: 2, Estimation: 5 ( 1 day = 5 production days )
@@ -35,14 +35,13 @@ Total: ~17 days ( approx. 17 weeks of production time )
 - [x] [user_stories_customisation](./user_stories/user_story_customisation.md), Priority: 8 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [] [user_stories_park_package](./user_stories/user_story_park_package.md), Priority: 10 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 - [x] [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3 ( High ), Estimation: 2 ( 1 day = 5 production days )
-- [] [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
+- [X] [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
 
 #### Additional user stories from previous iteration
 
 - [x] [user_stories_user_roles](./user_stories/user_story_user_roles.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
 - [x] [user_stories_inventory_management](./user_stories/user_story_inventory_management.md), Priority: 2 ( high ), Estimation: 4 ( 1 day = 5 production days )
 - [x] [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
-- [] [user_stories_customer_communication](./user_stories/user_story_customer_communication.md), Priority: Low / 7, Estimation: 6 ( 1 day = 5 production days )
 
 Total: ~13 days (approx. 13 weeks of production time)
 
@@ -62,9 +61,9 @@ user stories to produce a .
 5. [user_stories_payments](./user_stories/user_stories_payments.md), Priority: 7 ( Low ), Estimation: 2 ( 1 day = 5 production days )
 
 Estimate: ~17 days (approx. 17 weeks of production time )
-Total: 20 days
+Total: 28 days
 
-### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 11/04/2024)
+### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 14/04/2024)
 
 - Iteration 1 had issues with the team workload due to a member leaving the group.
 
@@ -74,12 +73,16 @@ Total: 20 days
 4. [user_stories_room_status_updates](./user_stories/user_story_room_status_updates.md), Priority: 3 ( High ), Estimation: 2 ( 1 day = 5 production days )
 5. [user_stories_scalability](./user_stories/user_story_scalability.md), Priority: 10 ( Low ), Estimation: 1 ( 1 day = 5 production days )
 
-Estimate: ~13 days (approx. 13 weeks of production time)
-Total: 20 days
+Estimate: ~20 days (approx. 20 weeks of production time)
+Total: 26 days
 
 ### Not enough time/developers':'
 
-[//]: # (1. [user story title]&#40;./user_stories/user_story_01_title.md&#41;, priority XX, YY days)
+* [Park Packages](user_stories/user_story_park_package.md)
+* [Customer Communication](user_stories/user_story_customer_communication.md)
+* [Customisation](user_stories/user_story_customisation.md)
+* Improvements to the UI
+* Bug fixes
 
 Total: 40 days
 

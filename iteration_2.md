@@ -4,13 +4,13 @@
 ## Checklist:
 
 1. GitHub entry timestamps
-2. User stories are correct:
+2. User stories are correct
 
 
 ## Velocity Estimation:
-* Assumed Velocity FROM iteration-1: ??
+* Assumed Velocity FROM iteration-1: 64
 * Number of developers: 4
-* Total estimated amount of work: YY days
+* Total estimated amount of work: 30 days
 
 
 ## User stories or tasks:
@@ -30,9 +30,9 @@
 
 ## In progress:
 
-* Deployment/ Hosting testing
 * Improvements to the UI
 * Park Package Selection
+* Customer Communication
 * Scalability
 
 
@@ -43,14 +43,24 @@
 * Room inventory
 * Room status updates
 * User roles and permissions for Hotel Staff and Guests
-
+* Deployment / Hosting 
+* Testing
 
 ## Burn Down for iteration-2:
 
 Update this at least once per week
 
-* 4 weeks left, xx days of estimated amount of work
-* 2 weeks left, xx days
-* 1 week left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ??
+![Burndown chart for iteration 2](./images/iteration-2 burndown chart.PNG)
+* 4 weeks left, 30 days of estimated amount of work
+* 2 weeks left, 25 days
+* 1 week left, 20 days
+* 0 weeks left, 10 days
+* Actual Velocity: 67
+
+## User stories and tasks for future iterations
+
+* Customer Communication
+* Park Package Selection
+* Improvements to the UI
+* Bug fixes
+* Customisation

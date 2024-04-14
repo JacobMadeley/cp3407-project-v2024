@@ -9,7 +9,7 @@
 
 ## Velocity Estimation:
 
-* Assumed Velocity: 0.7
+* Assumed Velocity: 64
 * Number of developers: 3
 * Total estimated amount of work: 20 days
 
@@ -44,12 +44,13 @@
 
 ## Burn Down for iteration-1:
 
+![Burndown chart for iteration 1](./images/iteration-1 burndown chart.PNG)
 * 4 weeks left, 20 days of estimated amount of work
 * 3 weeks left, 15 days
 * 2 weeks left, 10 days
-* 1 week left, 5 days
-* 0 weeks left, 0 days
-* Actual Velocity: ??
+* 1 week left, 15 days
+* 0 weeks left, 10 days
+* Actual Velocity: 70
 
 ## Tasks for the next iteration:
 
