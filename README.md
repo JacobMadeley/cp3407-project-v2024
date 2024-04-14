@@ -47,7 +47,23 @@ Total: ~13 days (approx. 13 weeks of production time)
 
 ## Assignment-2: Iterations
 
-### Iteration 1 [duration 4-7 weeks] (19/02/2024 - 17/03/2024
+#### Documentation for Assignment-2
+
+Full Iterations:
+  - [Iteration-1](./iteration_1.md)
+  - [Iteration-2](./iteration_2.md)
+- [Project structure](./project_structure.md)
+- [Building and Development Tools](./building_and_development_tools_explanation.md)
+- [Design Explanation for Major Components](./design_explinations_for_major_components.md)
+- [Illustrations and/or Promotion of Delivered Solution](illustration_and-or_promotion_of_delivered_solution.md)
+- [Deployment](Deployment.md)
+- [Testing](./testing_explanation.md)
+
+
+
+### Plan for Iterations
+
+#### Iteration 1 [duration 4-7 weeks] (19/02/2024 - 17/03/2024
 
 - Goal is to have 2 iterations during a trimester of teaching.
 - Update the following during each week prac session.
@@ -63,7 +79,7 @@ user stories to produce a .
 Estimate: ~17 days (approx. 17 weeks of production time )
 Total: 28 days
 
-### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 14/04/2024)
+#### Iteration 2 [duration 3-4 weeks] (18/03/2024 - 14/04/2024)
 
 - Iteration 1 had issues with the team workload due to a member leaving the group.
 
@@ -94,5 +110,3 @@ Total: 40 days
 
 1. [Iteration-1](./iteration_1.md)
 2. [Iteration-2](./iteration_2.md)
-
-
