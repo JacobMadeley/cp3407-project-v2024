@@ -3,10 +3,12 @@
 ## User story title: Show and select Booking options
 
 **Priority**: 10 / low
+Booking options are successfully displayed, however, there is not currently a method of interacting with the bookings after they are created outside of the superuser/admin controls.
 
 ## User story title: Dashboard for Hotel Management
 
 **Priority**: 5
+The dashboard displays the hotel information and contains a from for adding a new hotel to the connected database. The form also allows for the uploading of a company or brand symbol that will show on the navigation bar to the left.
 
 ## User story title: Inventory Management for Hotel Rooms
 
