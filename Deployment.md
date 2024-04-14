@@ -5,13 +5,13 @@ Initially it was expected this would take approximately 2 hours with four of us 
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/0de52a39-40d1-48d6-8664-e12fb0f164dd)
 
 To explain the process:
-A service user had to be created that would act as an intermediary between the environment and the RDS server
-An EC2 user was created specifically for the EC2 handling components
-These user roles were created in the IAM AWS
+A service user had to be created that would act as an intermediary between the environment and the RDS server.
+An EC2 user was created specifically for the EC2 handling components.
+These user roles were created in the IAM AWS.
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/06e39531-6e0d-4759-ade5-e26520fc7470)
 
-The application had to be extensively tweaked for deployment, and migrated to an RDS(remote database server) as the deployed project in AWS does not have a local database
-The RDS had to contain a VPC(virtual private cloud) with a security system that needed specific rules for in and outbound traffic, and rules to link to the EC2 configuration
+The application had to be extensively tweaked for deployment, and migrated to an RDS(remote database server) as the deployed project in AWS does not have a local database.
+The RDS had to contain a VPC(virtual private cloud) with a security system that needed specific rules for in and outbound traffic, and rules to link to the EC2 configuration.
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/8c28c037-ccf9-46ff-8bd7-7181c5b756c4)
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/cfbafe64-ec69-45a6-aea9-3b20bea80a04)
 ![image](https://github.com/JacobMadeley/cp3407-project-v2024/assets/110138379/ddbb9367-2dd4-4c48-9746-f689af2d9316)
