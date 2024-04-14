@@ -1,8 +1,8 @@
-### Project overview:
+# Project overview:
 
 Our hotel booking project is built on Django and PostgreSQL, offering a robust and efficient platform for managing hotel bookings. The project follows a structured approach, with Django providing the framework for backend development and PostgreSQL serving as the reliable database management system. The project architecture is designed to be scalable and flexible, allowing for easy integration of new features and functionalities. With a focus on user experience, the frontend is crafted using HTML, CSS, and JavaScript, ensuring a seamless and intuitive interface for hotel staff and guests
 
-### Project structure:
+# Project structure:
 
 1. Project Root: Contains the project's configuration files and main entry points
 - "manage.py": Django's command-line utility for administrative tasks

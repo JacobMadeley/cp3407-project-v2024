@@ -50,7 +50,7 @@
 
 Update this at least once per week
 
-![Burndown chart for iteration 2](./images/iteration-2 burndown chart.PNG)
+![Burndown chart for iteration 2](<images/iteration-2 burndown chart.PNG>)
 * 4 weeks left, 30 days of estimated amount of work
 * 2 weeks left, 25 days
 * 1 week left, 20 days

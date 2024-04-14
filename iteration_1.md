@@ -44,7 +44,7 @@
 
 ## Burn Down for iteration-1:
 
-![Burndown chart for iteration 1](./images/iteration-1 burndown chart.PNG)
+![Burndown chart for iteration 1](<images/iteration-1 burndown chart.PNG>)
 * 4 weeks left, 20 days of estimated amount of work
 * 3 weeks left, 15 days
 * 2 weeks left, 10 days
